@@ -1,0 +1,117 @@
+.form_signup {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: auto;
+  z-index: 8;
+}
+.txtHeadingLogin {
+  font-size: 40px;
+  font-family: "Sign up blog";
+  color: #ffffff;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  -webkit-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  -ms-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  position: absolute;
+  left: 600px;
+  top: 80px;
+  z-index: 7;
+}
+.txtUser {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 322px;
+  padding:8px;
+  top: 150px;
+  width: 231px;
+  height: 40px;
+  z-index: 6;
+}
+.txtEmail {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 322px;
+  padding:8px;
+  top: 210px;
+  width: 231px;
+  height: 40px;
+  z-index: 6;
+}
+.txtPass {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 322px;
+  top: 270px;
+  padding:8px;
+  width: 231px;
+  height: 40px;
+  z-index: 5;
+}
+.txtremember {
+  position: absolute;
+  bottom: 320px;
+  padding:8px;
+  width: 231px;
+  height: 40px;
+}
+.coverLogo {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 60px;
+  top: 160px;
+  width: 180px;
+  height: 180px;
+  z-index: 4;
+}
+.btnLogin {
+  border-radius: 10px;
+  border:0;
+  background-color: rgb(0, 114, 188);
+  position: absolute;
+  display:inline-block;
+  border-color:rgb(0, 114, 188);
+  left: 322px;
+  top: 360px;
+  width: 231px;
+  height: 40px;
+  z-index: 3;
+}
+.coverSignup {
+  border-radius: 30px;
+  background-color: rgb(000, 000, 000);
+  position: absolute;
+  left: 352px;
+  top: 80px;
+  width: 700px;
+  height: 520px;
+  z-index: 2;
+}
+.back {
+  font-size: 12px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 397px;
+  top: 576.674px;
+  z-index: 9;
+}
+.Copyright {
+  font-size: 12px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  right: 393px;
+  top: 478.674px;
+  z-index: 8;
+}

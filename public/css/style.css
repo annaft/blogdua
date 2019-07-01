@@ -1,0 +1,124 @@
+.form_login {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: auto;
+  z-index: 8;
+}
+.txtHeadingLogin {
+  font-size: 40px;
+  font-family: "Log in Blog";
+  color: #ffffff;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  -webkit-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  -ms-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  position: absolute;
+  left: 540px;
+  top: 100px;
+  z-index: 7;
+}
+
+.txtUser {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 322px;
+  padding:8px;
+  top: 160px;
+  width: 231px;
+  height: 40px;
+  z-index: 6;
+}
+.txtPass {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 322px;
+  top: 220px;
+  padding:8px;
+  width: 231px;
+  height: 40px;
+  z-index: 5;
+}
+.txtremember {
+  position: absolute;
+  bottom: 100px;
+  padding:8px;
+  width: px;
+  height: 40px;
+  
+}
+.coverLogo {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 60px;
+  top: 160px;
+  width: 180px;
+  height: 180px;
+  z-index: 4;
+}
+.btnLogin {
+  border-radius: 10px;
+  border:0;
+  background-color: rgb(0, 114, 188);
+  position: absolute;
+  display:inline-block;
+  border-color:rgb(0, 114, 188);
+  left: 322px;
+  top: 315px;
+  width: 231px;
+  height: 40px;
+  z-index: 3;
+}
+.coverLogin {
+  border-radius: 15px;
+  background-color: rgb(000, 000, 000);
+  position: absolute;
+  left: 352px;
+  top: 80px;
+  width: 657px;
+  height: 440px;
+  z-index: 2;
+}
+#call-to-action {
+  background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 8.0)), url(../img/w1.jpg) fixed center center;
+  background color: #000080;
+  background-size: cover;
+  padding: 60px 0;
+}
+
+#call-to-action h3 {
+  color: #000080;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+#call-to-action p {
+  color: #000080;
+}
+.back {
+  font-size: 12px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 397px;
+  top: 576.674px;
+  z-index: 9;
+}
+
+.footer{
+    width: 100%;
+    height: 50px;
+    padding-left: 50px;
+    line-height: 50px;
+    background: #000;
+    color: #fff;
+    position: bottom;
+    bottom: 0px;
+}
